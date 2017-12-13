@@ -9,3 +9,4 @@ module Memorable
 
 
 end
+#I need to name classes, such as --all-- the same thing in the classes that module code applies to?
